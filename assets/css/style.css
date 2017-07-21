@@ -627,4 +627,8 @@ section{
         color: #f39100;
     }
     
+    .solid:hover {
+        display: none;
+    }
+    
 }
