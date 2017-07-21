@@ -618,5 +618,8 @@ section{
     .displaynone {
         display: block;
     }
+    .header{
+	background-image: url(../images/oona.jpg);
+    }
     
 }
